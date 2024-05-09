@@ -29,7 +29,7 @@ Generated actionable insights and recommendations based on the analysis findings
 Presented analysis results and recommendations to senior management and relevant stakeholders.
 Facilitated discussions and decision-making based on data-driven insights, contributing to strategic planning and resource allocation.
     
-    Technologies Used:
+   Technologies Used:
 
 Microsoft Excel (Pivot Tables, Data Analysis Tools, Charts), Statistical Analysis Techniques
 
